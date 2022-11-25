@@ -24,6 +24,8 @@ while True:
         break
 print("The final score is:",score)
 
+## A python generated program where a user can play a game by rolling the dice as many times he wants!!
+
 
 
 
